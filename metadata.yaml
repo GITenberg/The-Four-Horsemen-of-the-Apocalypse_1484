@@ -1,11 +1,14 @@
 _repo: The-Four-Horsemen-of-the-Apocalypse_1484
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Los cuatro jinetes del Apocalipsis. English
 contributor:
   translator:
     agent_name: Jordan, Charlotte Brewster
     gutenberg_agent_id: '5110'
     url: http://www.gutenberg.org/2009/agents/5110
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: Translation of Los cuatro jinetes del Apocalipsis
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1484#The-Four-Horsemen-of-the-Apocalypse
 gutenberg_bookshelf:
 - World War I
 - Bestsellers, American, 1895-1923
